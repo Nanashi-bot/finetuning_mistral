@@ -9,7 +9,7 @@ fsdp_plugin = FullyShardedDataParallelPlugin(
 )
 accelerator = Accelerator(fsdp_plugin=fsdp_plugin)
 
-HF_TOKEN = "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"
+HF_TOKEN = "XXXXXXXXXXXXXXXXXXXXXX"
 from huggingface_hub import login
 login(token = HF_TOKEN)
 
