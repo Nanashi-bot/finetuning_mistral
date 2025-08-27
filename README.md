@@ -1,5 +1,7 @@
 # Fine-Tuning Mistral 7B for Query Expansion
 
+The report for the internship during which this work was done is: [Internship Report](https://github.com/Nanashi-bot/finetuning_mistral/blob/main/Internship%20report.pdf)
+
 This repository contains code to fine-tune the Mistral 7B model using LoRA adapters and evaluate its performance on query expansion tasks. The goal is to take a short query and predict potential larger questions it could originate from.
 
 ## Table of Contents
